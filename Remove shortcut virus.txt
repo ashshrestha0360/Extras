@@ -1,0 +1,4 @@
+cmd as admin
+goto drive letter
+ del *.lnk
+attrib -s -r -h *.* /s /d /l
